@@ -1,0 +1,4 @@
+# Add file here to ignore them form prettier formatting
+
+/dist
+/coverage
